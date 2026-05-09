@@ -15,7 +15,7 @@ const links = [
 
 const socials = [
   { icon: FaGithub, href: "https://github.com/NagensPC", label: "GitHub" },
-  { icon: FaLinkedinIn, href: "https://linkedin.com/in/yourusername", label: "LinkedIn" },
+  { icon: FaLinkedinIn, href: "https://linkedin.com/in/NagenNayak", label: "LinkedIn" },
   { icon: FaEnvelope, href: "mailto:nagennayak8@gmail.com", label: "Email" },
 ];
 
