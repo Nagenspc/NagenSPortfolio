@@ -9,7 +9,7 @@ const projects = [
     description:
       "A Python-based Mario-Style Game Featuring Character movement , Obstacles , Scoring , and Interactive gameplay Machines.",
     tech: ["Python","Pygame"],
-    github: "#",
+    github: "https://github.com/Nagenspc/Python-Mario-Game",
     demo: "#",
     emoji: "🤖",
     gradient: "from-blue-500 to-cyan-400",
@@ -20,7 +20,7 @@ const projects = [
     description:
       "A full-stack carrier guidance system that helps students explore carrier paths,skill recommedations and future opportunites using frontend and backend technologies.",
     tech: ["Java", "Python", "MySQL", "HTML", "CSS","JavaScript"],
-    github: "#",
+    github: "https://github.com/Nagenspc/Carrier-Guide-Prediction-System-",
     demo: "#",
     emoji: "🌍",
     gradient: "from-violet-500 to-purple-400",
@@ -31,8 +31,8 @@ const projects = [
     description:
       "This very portfolio — built with Next.js, Tailwind CSS, and Framer Motion for silky-smooth animations and a premium feel.",
     tech: ["Next.js", "Tailwind", "Framer Motion"],
-    github: "#",
-    demo: "#",
+    github: "https://github.com/Nagenspc/NagenSPortfolio",
+    demo: "https://nagen-s-portfolio.vercel.app/",
     emoji: "✨",
     gradient: "from-pink-500 to-rose-400",
     glow: "rgba(236,72,153,0.25)",
